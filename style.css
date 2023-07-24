@@ -1,7 +1,13 @@
+@font-face {
+    font-family: Lydian BT;
+    src: url('fonts/Lydian\ BT.ttf');
+}
+
 body {
     box-sizing: border-box;
     padding-left: 20%;
     padding-right: 20%;
+    font-family: "Lydian BT";
 }
 
 ul {
@@ -22,6 +28,14 @@ ul li {
 
 .row {
     display: flex;
+}
+
+.navBoxes {
+    color: aqua;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 /* Create two equal columns that sits next to each other */
