@@ -31,7 +31,8 @@ ul li {
 }
 
 .navBoxes {
-    color: aqua;
+    color: black;
+    background-color: aqua;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
