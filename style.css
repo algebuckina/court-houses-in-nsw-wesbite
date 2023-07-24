@@ -36,6 +36,7 @@ ul li {
     background-color: #ecf2f3;
     border-color: brown;
     padding: 10px 10px 10px 10px;
+    border-radius: 5px;
 }
 
 /* Create two equal columns that sits next to each other */
